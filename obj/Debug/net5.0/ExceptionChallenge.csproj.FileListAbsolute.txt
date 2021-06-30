@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\bin\Debug\net5.0\ExceptionChallenge.exe
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\bin\Debug\net5.0\ExceptionChallenge.deps.json
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\bin\Debug\net5.0\ExceptionChallenge.runtimeconfig.json
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\bin\Debug\net5.0\ExceptionChallenge.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\bin\Debug\net5.0\ExceptionChallenge.dll
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\bin\Debug\net5.0\ref\ExceptionChallenge.dll
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\bin\Debug\net5.0\ExceptionChallenge.pdb
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.dll
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ref\ExceptionChallenge.dll
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.pdb
+C:\Users\Acer\Desktop\C#\ExceptionChallenge\obj\Debug\net5.0\ExceptionChallenge.genruntimeconfig.cache
